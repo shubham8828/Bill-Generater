@@ -1,0 +1,22 @@
+.Card {
+    height: 250px;
+    width: 270px;
+    border: 2px solid red;
+    border-radius: 20px;
+    overflow: hidden;
+    text-align: center;
+    margin: 20px;
+    background: linear-gradient(45deg, rgba(255, 0, 0, 0.466), rgba(255, 255, 0, 0.47), rgba(0, 255, 0, 0.443), rgba(0, 255, 255, 0.484), rgba(0, 0, 255, 0.543), rgba(255, 0, 255, 0.502), rgba(255, 0, 0, 0.575))
+}
+
+.Card img {
+    width: 230px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.Card span {
+    font-weight: 700;
+    font-size: 18px;
+}
